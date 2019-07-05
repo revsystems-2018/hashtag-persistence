@@ -1,0 +1,16 @@
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\config\SwaggerConfig.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\service\CreateHashtagService.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\rest\CreateHashtagController.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\rest\SuggestHashtagController.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\service\removeHashtagService.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\rest\FindByEntityController.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\rest\removeHashtagController.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\model\HashtagDTO.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\model\HashtagResponse.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\service\FindByEntityIdService.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\service\SuggestHashtagService.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\repository\HashtagRepository.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\rest\SearchHashtagController.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\Application.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\model\Hashtag.java
+C:\Users\rveizaga\Downloads\SpringBootExamples\hashtagPersistence\src\main\java\com\dharbor\set\dummy\hashtag\service\SearchHashtagService.java
